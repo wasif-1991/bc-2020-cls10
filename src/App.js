@@ -36,7 +36,7 @@ class App extends React.Component {
 
         <section>
           <hr/>
-          <footer>Designed and Developed by <a rel="noreferrer" href="https://upshotfirm.com" target="_blank" className={styles.footer}>Wasif Ahmed</a>.</footer>
+          <footer>Designed and Developed by <a rel="noreferrer" href="https://upshotfirm.com" target="_blank" className={styles.footer}>Wasif Ahmed</a>, with the association of <a rel="noreferrer" href="https://github.com/adrianhajdin/project_corona_tracker" target="_blank">Adrianhajdin</a>.</footer>
         </section>
       </div>
     );
